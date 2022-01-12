@@ -1,6 +1,8 @@
 # Word Master
 
-🔗 https://octokatherine.github.io/word-master/
+🔗 https://sebwolf-de.github.io/wort-meister/
+
+Thanks to [Katherine Peterson](https://github.com/octokatherine) for providing the initial implementation for this repository.
 
 Heavily inspired by [Wordle](https://www.powerlanguage.co.uk/wordle/), Word Master is a word guessing game similar to Mastermind. I created this because I love Wordle, but the once a day limit leaves me wanting more.
 
@@ -19,4 +21,4 @@ After submitting a guess, the letters will turn gray, green, or yellow.
 
 Feel free to open an issue for any bugs or feature requests.
 
-To contribute to the code, see [CONTRIBUTING.md](https://github.com/octokatherine/word-master/blob/main/CONTRIBUTING.md)
+To contribute to the code, see [the upstream project](https://github.com/octokatherine/word-master).
