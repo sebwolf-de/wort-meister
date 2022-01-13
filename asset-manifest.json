@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wort-meister/static/css/main.ef92000a.css",
-    "main.js": "/wort-meister/static/js/main.de145c81.js",
+    "main.js": "/wort-meister/static/js/main.7bd9f02f.js",
     "static/media/Cross.png": "/wort-meister/static/media/Cross.cbf77228e847522eff11.png",
     "static/media/Success.png": "/wort-meister/static/media/Success.df533be8f86a57bc5946.png",
     "static/media/Ranade-Variable.ttf": "/wort-meister/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
@@ -11,10 +11,10 @@
     "static/media/Info.svg": "/wort-meister/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
     "static/media/Close.svg": "/wort-meister/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
     "main.ef92000a.css.map": "/wort-meister/static/css/main.ef92000a.css.map",
-    "main.de145c81.js.map": "/wort-meister/static/js/main.de145c81.js.map"
+    "main.7bd9f02f.js.map": "/wort-meister/static/js/main.7bd9f02f.js.map"
   },
   "entrypoints": [
     "static/css/main.ef92000a.css",
-    "static/js/main.de145c81.js"
+    "static/js/main.7bd9f02f.js"
   ]
 }
